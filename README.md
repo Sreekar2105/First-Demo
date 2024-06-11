@@ -1,2 +1,3 @@
 # First-Demo
-intro to git
+Intro to git
+This is Komanduri Sreekar
